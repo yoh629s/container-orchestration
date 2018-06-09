@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "C:\\vscode\\workspace"
+		},
+		{
+			"path": "C:\\vscode\\minishift"
+		},
+		{
+			"path": "C:\\vscode\\minishift\\ch09-builderimage",
+			"name": "ch09-builderimage"
+		}
+	],
+	"settings": {}
+}

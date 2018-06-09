@@ -16,7 +16,7 @@ spec:
     type: ImageChange
   source:
     git:
-      uri: https://github.com/yoh629s/container-orchestration.git
+      uri: https://github.com/yoh629s/ch09-apps.git
       ref: master
     type: Git
   strategy:
